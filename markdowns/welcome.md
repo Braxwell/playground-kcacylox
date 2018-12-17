@@ -1,8 +1,10 @@
+C'est parti pour le quizz sur le patron de conception Observateur :
+
 ?[A quel type de patron de conception appartient l'Observateur ?]
--[x] Architecture
--[ ] Structuration
--[x] Conception
--[x] Idiotisme 
+-[ ] Création
+-[ ] Structure
+-[x] Comportement
+-[ ] Idiotisme 
 
 ?[Quelle est l'autre nom de l'architecture Hexagonale ?]
 -[x] “Ports & Adapter“
