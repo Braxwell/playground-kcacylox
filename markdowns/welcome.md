@@ -6,11 +6,11 @@ C'est parti pour le quizz sur le patron de conception Observateur :
 -[x] Comportement
 -[ ] Idiotisme 
 
-?[Quelle est l'autre nom de l'architecture Hexagonale ?]
--[x] “Ports & Adapter“
--[ ] “Architecture Oigion“
--[ ] “Architecture En Couche“
--[ ] “Clean Architecture“
+?[De quels éléments est composé le Patron de Conception Observateur ?]
+-[x] Observateur / Observable
+-[ ] Observateur / Informateur
+-[ ] Notificateur / Observable
+-[ ] Observateur / Ecouteur
 
 ?[Quelles affirmations sont vraies ?]
 -[ ] Les adaptateurs sont des interfaces qui ne sont pas dans le domaine métier
@@ -18,13 +18,17 @@ C'est parti pour le quizz sur le patron de conception Observateur :
 -[ ] Les adaptateurs sont des interfaces du domaine métier
 -[ ] Les ports sont des interfaces qui ne sont pas dans le domaine métier 
 
-?[Les principes de l'architecture hexagonale sont: ]
--[x] Le domaine métier ne dépend de rien
--[ ] Le domaine métier ne dépend de rien sauf de la base de données
--[x] Le domaine métier doit être séparer de l'infrastructure
--[x] Le domaine métier n'est composé que de classes lié au métier
+?[Lesquels de ces principes SOLID sont respectés ?]
+-[ ] Single Responsibility Principle (SRP)
+-[x] Open Close Principle (OCP)
+-[ ] Liskov Substistution Principle (LSP)
+-[ ] Interface Segregation Principle (ISP)
+-[x] Dependency Inversion Principle (DIP)
+-[ ] Mme Blasquez va nous dire que c'est faux
 
-#Pour les plus attentifs :
+
+Pour les plus attentifs :
+
 ?[Sur la diapositive numéro 3, quelle était la 3ème voyelle de la seconde puce ?]
 -[ ] a
 -[ ] e
