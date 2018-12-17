@@ -1,4 +1,4 @@
-?[Les différents type de pattern ?]
+?[A quel type de patron de conception appartient l'Observateur ?]
 -[x] Architecture
 -[ ] Structuration
 -[x] Conception
@@ -22,6 +22,8 @@
 -[x] Le domaine métier doit être séparer de l'infrastructure
 -[x] Le domaine métier n'est composé que de classes lié au métier
 
-?[L'utilisation de l'architecture hexagonale permet-elle d'allonger la durée de vie des applications ?]
--[x] Vrai
--[ ] Faux
+?[Sur la diapositive numéro 3, quelle était la 3ème voyelle de la seconde puce ?]
+-[ ] a
+-[ ] e
+-[x] u
+-[ ] Ca compte le y ?
