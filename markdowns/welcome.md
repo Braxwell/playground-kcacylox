@@ -22,6 +22,7 @@
 -[x] Le domaine métier doit être séparer de l'infrastructure
 -[x] Le domaine métier n'est composé que de classes lié au métier
 
+Pour les plus attentifs :
 ?[Sur la diapositive numéro 3, quelle était la 3ème voyelle de la seconde puce ?]
 -[ ] a
 -[ ] e
