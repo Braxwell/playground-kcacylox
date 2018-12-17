@@ -20,6 +20,10 @@ C'est parti pour le quizz sur le patron de conception Observateur :
 -[x] Dependency Inversion Principle (DIP)
 -[ ] Mme Blasquez va nous dire que c'est faux
 
+?[Dans quel sens se réalise la notification entre l'Observateur et l'Observable ?]
+-[ ] L'Observateur notifie l'Observable
+-[x] L'Observable notifie l'Observateur
+
 
 Pour les plus attentifs :
 
