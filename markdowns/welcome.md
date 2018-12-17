@@ -12,12 +12,6 @@ C'est parti pour le quizz sur le patron de conception Observateur :
 -[ ] Notificateur / Observable
 -[ ] Observateur / Ecouteur
 
-?[Quelles affirmations sont vraies ?]
--[ ] Les adaptateurs sont des interfaces qui ne sont pas dans le domaine métier
--[x] Les ports sont des interfaces du domaine métier
--[ ] Les adaptateurs sont des interfaces du domaine métier
--[ ] Les ports sont des interfaces qui ne sont pas dans le domaine métier 
-
 ?[Lesquels de ces principes SOLID sont respectés ?]
 -[ ] Single Responsibility Principle (SRP)
 -[x] Open Close Principle (OCP)
