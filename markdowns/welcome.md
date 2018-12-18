@@ -3,7 +3,7 @@ C'est parti pour le quizz sur le patron de conception Observateur :
 ?[A quel type de patron de conception appartient l'Observateur ?]
 -[ ] Création
 -[ ] Structure
--[x] Comportement
+-[ ] Comportement
 -[ ] Idiotisme 
 
 ?[De quels éléments est composé le Patron de Conception Observateur ?]
