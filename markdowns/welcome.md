@@ -31,7 +31,7 @@ C'est parti pour le quizz sur le patron de conception Observateur :
 
 Pour les plus attentifs :
 
-?[Sur la diapositive numéro 3, quelle était la 3ème voyelle de la seconde puce ?]
+?[Sur la diapositive numéro 3, quelle était la 3ème voyelle à partir de la seconde puce ?]
 -[ ] a
 -[ ] e
 -[x] u
