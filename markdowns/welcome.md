@@ -24,6 +24,10 @@ C'est parti pour le quizz sur le patron de conception Observateur :
 -[ ] L'Observateur notifie l'Observable
 -[x] L'Observable notifie l'Observateur
 
+?[Les patrons de conception sont des idiotismes de programmation ?]
+-[ ] Vrai
+-[x] Faux
+
 
 Pour les plus attentifs :
 
